@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Alex van der Schans",
+        "setups": [
+            {
+                "driver_1": "Lando Norris",
+                "driver_2": "Pierre Gasly",
+                "constructor_chassis": "Ferrari",
+                "constructor_engine": "Haas"
+            },
+            {
+            "driver_1": "Max Verstappen",
+            "driver_2": "Lewis Hamilton",
+            "constructor_chassis": "Ferrari",
+            "constructor_engine": "McLaren"
+        }]
+    },
+    {
+        "id": 2,
+        "name": "Martijn Weghorst",
+        "setups": [{
+            "driver_1": "Max Verstappen",
+            "driver_2": "Lewis Hamilton",
+            "constructor_chassis": "Ferrari",
+            "constructor_engine": "McLaren"
+        }]
+    },
+    {
+        "id": 3,
+        "name": "Jelle Scheer",
+        "setups": [{
+            "driver_1": "Max Verstappen",
+            "driver_2": "Lewis Hamilton",
+            "constructor_chassis": "Ferrari",
+            "constructor_engine": "McLaren"
+        }]
+    },
+    {
+        "id": 4,
+        "name": "Angela Boezaart",
+        "setups": [{
+            "driver_1": "Max Verstappen",
+            "driver_2": "Lewis Hamilton",
+            "constructor_chassis": "Ferrari",
+            "constructor_engine": "McLaren"
+        }]
+    },
+    {
+        "id": 5,
+        "name": "Chris Snoek"
+    },
+    {
+        "id": 6,
+        "name": "Jairo Hulshof",
+        "setups": [{
+            "driver_1": "Max Verstappen",
+            "driver_2": "Lewis Hamilton",
+            "constructor_chassis": "Ferrari",
+            "constructor_engine": "McLaren"
+        }]
+    },
+    {
+        "id": 7,
+        "name": "Kim Willemstein",
+        "setups": [{
+            "driver_1": "Max Verstappen",
+            "driver_2": "Lewis Hamilton",
+            "constructor_chassis": "Ferrari",
+            "constructor_engine": "McLaren"
+        }]
+    }
+]
